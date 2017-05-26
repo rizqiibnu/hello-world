@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hai kawan
+  ini adalah project bot saya :D
